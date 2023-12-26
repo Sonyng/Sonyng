@@ -1,4 +1,8 @@
 ### Olá, me chamo Vincius✨
+ &nbsp;
+ &nbsp;
+## My statistics
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyng&show_icons=true&bg_color=00000000)
  
  &nbsp;
@@ -11,7 +15,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
+ &nbsp;
+ &nbsp;
+ 
 ## Other experiences
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
