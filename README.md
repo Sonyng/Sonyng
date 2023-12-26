@@ -3,10 +3,7 @@
 
 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="github-readme-stats-six-roan-58.vercel.app/api/top-langs/?username=Sonyng&show_icons=true&theme=radical&layout=compact" />
- </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyng&show_icons=true&bg_color=00000000)
  
  &nbsp;
  &nbsp;
