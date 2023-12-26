@@ -1,14 +1,14 @@
 ### Olá, me chamo Vincius✨
  &nbsp;
  &nbsp;
-## My statistics
+## My statistics:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyng&show_icons=true&bg_color=00000000)
  
  &nbsp;
  &nbsp;
 
-## My Skills
+## My Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyng)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +18,7 @@
  &nbsp;
  &nbsp;
  
-## Other experiences
+## Other experiences:
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
