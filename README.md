@@ -10,18 +10,18 @@
 
 ## My Skills
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyng)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Main Stack:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyng)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Databases:
-<div>
- https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-</div>
+
 
 #### Workstation Tools:
 
